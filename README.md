@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakandarak" alt="hakandarak" /></a> </p>
 
-- 🌱 I’m currently learning **.Net Core MVC,API,MsSQL,Html/Css**
+- 🌱 I’m currently learning **.Net Core MVC,API,MsSQL,Html/Css,JavaScrpit,Json,Xml,Ajax**
 
 - 📫 How to reach me **hakandarak1@gmail.com**
 
